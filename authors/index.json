@@ -1,121 +1,37 @@
 [
-    {
-      "nome": "Thalles Ramon Rosa",
-      "image": "author_thalles",
-      "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes)",
-      "email": "thalles.rosa@ifes.edu.br",
-      "lattes": "http://lattes.cnpq.br/2629035369494897"
-    },
-    {
-      "nome": "Camilo de Lelis Medeiros de Morais",
-      "image": "author_camilo",
-      "instituicao": "Pesquisador – School of Pharmacy and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, United Kingdom",
-      "email": "camilolelis07@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/7832928791745545"
-    },
-    {
-      "nome": "Kassio Michell Gomes de Lima",
-      "image": "author_kassio",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Rio Grande do Norte (UFRN)",
-      "email": "kassiolima@gmail.com",
-      "lattes": "http://lattes.cnpq.br/6928918856031880"
-    },
-    {
-      "nome": "Paulo Roberto Filgueiras",
-      "image": "author_paulo",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Espírito Santo (Ufes)",
-      "email": "pauloiuna@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/1907915547207861"
-    },
-    {
-      "nome": "Wanderson Romão",
-      "image": "author_romao",
-      "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes) e Universidade Federal do Espírito Santo (Ufes)",
-      "email": "wandersonromao@gmail.com",
-      "lattes": "http://lattes.cnpq.br/9121022613112821"
-    },
-    {
-      "nome": "Camilo de Lelis Medeiros de Morais",
-      "image": "author_camilo",
-      "instituicao": "Pesquisador – School of Pharmacy and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, United Kingdom",
-      "email": "camilolelis07@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/7832928791745545"
-    },
-    {
-      "nome": "Kassio Michell Gomes de Lima",
-      "image": "author_kassio",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Rio Grande do Norte (UFRN)",
-      "email": "kassiolima@gmail.com",
-      "lattes": "http://lattes.cnpq.br/6928918856031880"
-    },
-    {
-      "nome": "Paulo Roberto Filgueiras",
-      "image": "author_paulo",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Espírito Santo (Ufes)",
-      "email": "pauloiuna@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/1907915547207861"
-    },
-    {
-      "nome": "Wanderson Romão",
-      "image": "author_romao",
-      "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes) e Universidade Federal do Espírito Santo (Ufes)",
-      "email": "wandersonromao@gmail.com",
-      "lattes": "http://lattes.cnpq.br/9121022613112821"
-    },
-    {
-      "nome": "Camilo de Lelis Medeiros de Morais",
-      "image": "author_camilo",
-      "instituicao": "Pesquisador – School of Pharmacy and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, United Kingdom",
-      "email": "camilolelis07@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/7832928791745545"
-    },
-    {
-      "nome": "Kassio Michell Gomes de Lima",
-      "image": "author_kassio",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Rio Grande do Norte (UFRN)",
-      "email": "kassiolima@gmail.com",
-      "lattes": "http://lattes.cnpq.br/6928918856031880"
-    },
-    {
-      "nome": "Paulo Roberto Filgueiras",
-      "image": "author_paulo",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Espírito Santo (Ufes)",
-      "email": "pauloiuna@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/1907915547207861"
-    },
-    {
-      "nome": "Wanderson Romão",
-      "image": "author_romao",
-      "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes) e Universidade Federal do Espírito Santo (Ufes)",
-      "email": "wandersonromao@gmail.com",
-      "lattes": "http://lattes.cnpq.br/9121022613112821"
-    },
-    {
-      "nome": "Camilo de Lelis Medeiros de Morais",
-      "image": "author_camilo",
-      "instituicao": "Pesquisador – School of Pharmacy and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, United Kingdom",
-      "email": "camilolelis07@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/7832928791745545"
-    },
-    {
-      "nome": "Kassio Michell Gomes de Lima",
-      "image": "author_kassio",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Rio Grande do Norte (UFRN)",
-      "email": "kassiolima@gmail.com",
-      "lattes": "http://lattes.cnpq.br/6928918856031880"
-    },
-    {
-      "nome": "Paulo Roberto Filgueiras",
-      "image": "author_paulo",
-      "instituicao": "Professor e Pesquisador – Universidade Federal do Espírito Santo (Ufes)",
-      "email": "pauloiuna@hotmail.com",
-      "lattes": "http://lattes.cnpq.br/1907915547207861"
-    },
-    {
-      "nome": "Wanderson Romão",
-      "image": "author_romao",
-      "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes) e Universidade Federal do Espírito Santo (Ufes)",
-      "email": "wandersonromao@gmail.com",
-      "lattes": "http://lattes.cnpq.br/9121022613112821"
-    }
-  ]
+  {
+    "nome": "Thalles Ramon Rosa",
+    "image": "author_thalles.jpg",
+    "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes)",
+    "email": "thalles.rosa@ifes.edu.br",
+    "lattes": "http://lattes.cnpq.br/2629035369494897"
+  },
+  {
+    "nome": "Camilo de Lelis Medeiros de Morais",
+    "image": "author_camilo.jpg",
+    "instituicao": "Pesquisador – School of Pharmacy and Biomedical Sciences, University of Central Lancashire, Preston PR1 2HE, United Kingdom",
+    "email": "camilolelis07@hotmail.com",
+    "lattes": "http://lattes.cnpq.br/7832928791745545"
+  },
+  {
+    "nome": "Kassio Michell Gomes de Lima",
+    "image": "author_kassio.jpg",
+    "instituicao": "Professor e Pesquisador – Universidade Federal do Rio Grande do Norte (UFRN)",
+    "email": "kassiolima@gmail.com",
+    "lattes": "http://lattes.cnpq.br/6928918856031880"
+  },
+  {
+    "nome": "Paulo Roberto Filgueiras",
+    "image": "author_paulo.jpg",
+    "instituicao": "Professor e Pesquisador – Universidade Federal do Espírito Santo (Ufes)",
+    "email": "pauloiuna@hotmail.com",
+    "lattes": "http://lattes.cnpq.br/1907915547207861"
+  },
+  {
+    "nome": "Wanderson Romão",
+    "image": "author_romao.jpg",
+    "instituicao": "Professor e Pesquisador – Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (Ifes) e Universidade Federal do Espírito Santo (Ufes)",
+    "email": "wandersonromao@gmail.com",
+    "lattes": "http://lattes.cnpq.br/9121022613112821"
+  }
+]
