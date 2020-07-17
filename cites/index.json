@@ -21,8 +21,8 @@
     "pages": "104968",
     "year": "2020",
     "issn": "0026-265X",
-    "doi": "https://doi.org/10.1016/j.microc.2020.104968",
-    "url": "http://www.sciencedirect.com/science/article/pii/S0026265X20302952",
+    "doi": "10.1016/j.microc.2020.104968",
+    "url": "https://doi.org/10.1016/j.microc.2020.104968",
     "author": "Rayana A. Costa and Camilo L.M. Morais and Thalles R. Rosa and Paulo R. Filgueiras and Monike S. Mendonça and Isabelly E.S. Pereira and Bruno V. Vittorazzi and Marisa B. Lyra and Kássio M.G. Lima and Wanderson Romão",
     "keywords": "Milk, Adulterants, RGB image, PLS, Smartphone",
     "abstract": "In this paper, a colorimetric method for the detection of milk adulterants using smartphone image analysis is reported. This is based on the reactions to detect hydrogen peroxide, sodium hypochlorite, and starch in milk, where a color variation is observed for each substance. The image analysis was performed by using lab-made apps (PhotoMetrix®, and RedGIM®) based on partial least squares regression with the histograms of the red-green-blue images. The image histograms are automatically calculated using the smartphone camera and processed within the app. The results have shown the capability of this method to predict the concentration of the three adulterants, demonstrating the potential of the use of digital images and smartphone applications associated with chemometric tools. This method presents a fast, low-cost, and portable way to quantify adulterants in Cow milk."
