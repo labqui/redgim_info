@@ -3,34 +3,33 @@
   "previous": null,
   "next": null,
   "results": [
-    {
-      "id": "C6AY02126C",
-      "author": "Tosato, Flávia and Rosa, Thalles R. and Morais, Camilo L. M. and Maldaner, Adriano O. and Ortiz, Rafael S. and Filgueiras, Paulo R. and Gomes Lima, Kássio M. and Romão, Wanderson",
-      "title": "Direct quantitative analysis of cocaine by thin layer chromatography plus a mobile phone and multivariate calibration: a cost-effective and rapid method",
-      "journal": "Anal. Methods",
-      "year": "2016",
-      "volume": "8",
-      "issue": "42",
-      "pages": "7632-7637",
-      "publisher": "The Royal Society of Chemistry",
-      "doi": "10.1039/C6AY02126C",
-      "url": "http://dx.doi.org/10.1039/C6AY02126C",
-      "abstract": "The detection and quantification of trace amounts of illicit substances such as crack-cocaine continues to be important for law enforcement and clinical medicine. Conventional methods available for crack-cocaine and adulterant detection include chromatography and presumptive testing. Here{,} we report a simple and inexpensive approach that employs a cell phone which images of thin-layer chromatography (TLC) plates were acquired to directly quantify cocaine and phenacetin in illicit samples seized in Brazil from 2012. Integration of a mobile application with a cell phone enabled immediate processing of TLC results{,} which eliminated the need for a bulky and expensive spectrometer. Partial least squares (PLS) regression was built using the RGB image system from the TLC plates containing cocaine (0.50 to 16.00 mg mL−1) and phenacetin (0.00 to 14.00 mg mL−1) as adulterants{,} acquired from a cell phone camera. The RMSEP values obtained for cocaine and phenacetin models were{,} respectively{,} equal to 1.60 and 1.36 mg mL−1{,} and their precision was respectively equal to 6.22 and 7.14%. No statistical difference was observed at a confidence level of 95% for both analytes calculated by the proposed method and those found by the reference method using gas chromatography with flame ionization detection (GC-FID){,} proving the reliability of the imaging method as an alternative approach for these assays."
-    },
-    {
-      "id": "j.microc.2020.104968",
-      "title": "Quantification of milk adulterants (starch, H2O2, and NaClO) using colorimetric assays coupled to smartphone image analysis",
-      "journal": "Microchemical Journal",
-      "volume": "156",
-      "pages": "104968",
-      "year": "2020",
-      "issn": "0026-265X",
-      "publisher": "Microchemical Journal",
-      "doi": "10.1016/j.microc.2020.104968",
-      "url": "https://doi.org/10.1016/j.microc.2020.104968",
-      "author": "Rayana A. Costa and Camilo L.M. Morais and Thalles R. Rosa and Paulo R. Filgueiras and Monike S. Mendonça and Isabelly E.S. Pereira and Bruno V. Vittorazzi and Marisa B. Lyra and Kássio M.G. Lima and Wanderson Romão",
-      "keywords": "Milk, Adulterants, RGB image, PLS, Smartphone",
-      "abstract": "In this paper, a colorimetric method for the detection of milk adulterants using smartphone image analysis is reported. This is based on the reactions to detect hydrogen peroxide, sodium hypochlorite, and starch in milk, where a color variation is observed for each substance. The image analysis was performed by using lab-made apps (PhotoMetrix®, and RedGIM®) based on partial least squares regression with the histograms of the red-green-blue images. The image histograms are automatically calculated using the smartphone camera and processed within the app. The results have shown the capability of this method to predict the concentration of the three adulterants, demonstrating the potential of the use of digital images and smartphone applications associated with chemometric tools. This method presents a fast, low-cost, and portable way to quantify adulterants in Cow milk."
-    }
-  ]
+  {
+    "id": "C6AY02126C",
+    "authors": "Tosato, Flávia and Rosa, Thalles R. and Morais, Camilo L. M. and Maldaner, Adriano O. and Ortiz, Rafael S. and Filgueiras, Paulo R. and Gomes Lima, Kássio M. and Romão, Wanderson",
+    "title": "Direct quantitative analysis of cocaine by thin layer chromatography plus a mobile phone and multivariate calibration: a cost-effective and rapid method",
+    "journal": "Anal. Methods",
+    "volume": "8",
+    "pages": "7632-7637",
+    "year": "2016",
+    "publisher": "The Royal Society of Chemistry",
+    "doi": "10.1039/C6AY02126C",
+    "url": "http://dx.doi.org/10.1039/C6AY02126C",
+    "issue": "42",
+    "abstract": "The detection and quantification of trace amounts of illicit substances such as crack-cocaine continues to be important for law enforcement and clinical medicine. Conventional methods available for crack-cocaine and adulterant detection include chromatography and presumptive testing. Here{,} we report a simple and inexpensive approach that employs a cell phone which images of thin-layer chromatography (TLC) plates were acquired to directly quantify cocaine and phenacetin in illicit samples seized in Brazil from 2012. Integration of a mobile application with a cell phone enabled immediate processing of TLC results{,} which eliminated the need for a bulky and expensive spectrometer. Partial least squares (PLS) regression was built using the RGB image system from the TLC plates containing cocaine (0.50 to 16.00 mg mL−1) and phenacetin (0.00 to 14.00 mg mL−1) as adulterants{,} acquired from a cell phone camera. The RMSEP values obtained for cocaine and phenacetin models were{,} respectively{,} equal to 1.60 and 1.36 mg mL−1{,} and their precision was respectively equal to 6.22 and 7.14%. No statistical difference was observed at a confidence level of 95% for both analytes calculated by the proposed method and those found by the reference method using gas chromatography with flame ionization detection (GC-FID){,} proving the reliability of the imaging method as an alternative approach for these assays."
+  },
+  {
+    "id": "j.microc.2020.104968",
+    "title": "Quantification of milk adulterants (starch, H2O2, and NaClO) using colorimetric assays coupled to smartphone image analysis",
+    "authors": "Rayana A. Costa and Camilo L.M. Morais and Thalles R. Rosa and Paulo R. Filgueiras and Monike S. Mendonça and Isabelly E.S. Pereira and Bruno V. Vittorazzi and Marisa B. Lyra and Kássio M.G. Lima and Wanderson Romão",
+    "journal": "Microchemical Journal",
+    "volume": "156",
+    "pages": "104968",
+    "year": "2020",
+    "publisher": "Microchemical Journal",
+    "doi": "10.1016/j.microc.2020.104968",
+    "url": "https://doi.org/10.1016/j.microc.2020.104968",
+    "keywords": "Milk, Adulterants, RGB image, PLS, Smartphone",
+    "abstract": "In this paper, a colorimetric method for the detection of milk adulterants using smartphone image analysis is reported. This is based on the reactions to detect hydrogen peroxide, sodium hypochlorite, and starch in milk, where a color variation is observed for each substance. The image analysis was performed by using lab-made apps (PhotoMetrix®, and RedGIM®) based on partial least squares regression with the histograms of the red-green-blue images. The image histograms are automatically calculated using the smartphone camera and processed within the app. The results have shown the capability of this method to predict the concentration of the three adulterants, demonstrating the potential of the use of digital images and smartphone applications associated with chemometric tools. This method presents a fast, low-cost, and portable way to quantify adulterants in Cow milk."
+  }
+]
 }
