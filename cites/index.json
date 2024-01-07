@@ -1,5 +1,5 @@
 {
-  "count": 3,
+  "count": 4,
   "previous": null,
   "next": null,
   "results": [
@@ -8,8 +8,6 @@
     "authors": "Tosato, Flávia and Rosa, Thalles R. and Morais, Camilo L. M. and Maldaner, Adriano O. and Ortiz, Rafael S. and Filgueiras, Paulo R. and Gomes Lima, Kássio M. and Romão, Wanderson",
     "title": "Direct quantitative analysis of cocaine by thin layer chromatography plus a mobile phone and multivariate calibration: a cost-effective and rapid method",
     "journal": "Anal. Methods",
-    "volume": "8",
-    "pages": "7632-7637",
     "year": "2016",
     "publisher": "The Royal Society of Chemistry",
     "doi": "10.1039/C6AY02126C",
@@ -21,8 +19,6 @@
     "authors": "Rayana A. Costa and Camilo L.M. Morais and Thalles R. Rosa and Paulo R. Filgueiras and Monike S. Mendonça and Isabelly E.S. Pereira and Bruno V. Vittorazzi and Marisa B. Lyra and Kássio M.G. Lima and Wanderson Romão",
     "title": "Quantification of milk adulterants (starch, H2O2, and NaClO) using colorimetric assays coupled to smartphone image analysis",
     "journal": "Microchemical Journal",
-    "volume": "156",
-    "pages": "104968",
     "year": "2020",
     "publisher": "Microchemical Journal",
     "doi": "10.1016/j.microc.2020.104968",
@@ -34,13 +30,22 @@
     "title": "REDGIM AS A SMARTPHONE APP FOR CHEMOMETRICS APPLICATIONS THROUGH IMAGE ANALYSIS: A USE IN PLS",
     "authors": "Thalles R. Rosa and Bruno M.M. Siqueira and Rayana A. Costa and Jadson Z. dos Reis and Wagner L.S. Pacheco and Paulo R.G. de Moura and Wanderson Romão and Paulo R. Filgueiras",
     "journal": "Quimica Nova",
-    "volume": "45",
-    "pages": "550-559",
     "year": "2022",
     "publisher": "Sociedade Brasileira de Quimica",
     "doi": "10.21577/0100-4042.20170861",
     "url": "https://doi.org/10.21577/0100-4042.20170861",
     "abstract": "The study of the spectrum of light has increased its range of action in the field of chemistry, with the help of several advanced equipment and innovative techniques that have become a strong ally of analytical chemistry. However, the simplicity of obtaining results integrated with mobile devices appears as an interesting path to be taken in the field of chemical analysis. This work addresses the dissemination of an application called REDGIM for smartphones on the Android platform capable of working with multivariate image analysis using chemometric methods through the luminous intensities of photos and R (red), G (green) and B (blue) channels. In order to show the potential of REDGIM, we propose two applications using the partial least squares (PLS) regression method: 1) quantification of free chlorine in tap water; and 2) quantification of cannabinol, (CBN, a type of cannabinoid) in marijuana and hashish samples. The free chlorine concentration obtained for two investigated samples was 0.73 and 0.74 mg L–1 and 0.74 and 0.76 mg L–1 by the spectrophotometer and by the application (container: cuvette), respectively. For the quantification of CBN in marijuana and hashish samples, the mean concentration ranged from 6.137 to 8.823 mg mL–1. The results obtained by the application are compatible with results from traditional techniques, such as UV-Vis spectrophotometry, for example. Therefore, REDGIM was proved to be a simple and accessible technological tool for the scientific community, being viable for chemical tests of a multivariate nature."
+  },
+  {
+    "id": "C6AY02126C",
+    "authors": "Siqueira, Bruno and Silva, André and Folli, Gabriely and Rosa, Thalles Ramon and Romão, Wanderson and Lelis, Maria and Filgueiras, Paulo and Garcez de Moura, Paulo",
+    "title": "APRENDIZAGEM DA ANÁLISE POR COMPONENTES PRINCIPAIS POR MEIO DA ATIVIDADE EXPERIMENTAL PROBLEMATIZADA (AEP) COM A UTILIZAÇÃO DE UM APLICATIVO DE SMARTPHONE",
+    "journal": "Química Nova",
+    "year": "2024",
+    "publisher": "Química Nova",
+    "doi": "10.21577/0100-4042.20230138",
+    "url": "http://dx.doi.org/10.21577/0100-4042.20230138",
+    "abstract": "LEARNING PRINCIPAL COMPONENT ANALYSIS THROUGH PROBLEMATIZED EXPERIMENTAL ACTIVITY (PEA) USING A SMARTPHONE APP. The article aims to address the use of the theoretical-methodological teaching strategy, Problematized Experimental Activity (PEA), to introduce a method employed in chemometrics, called Principal Component Analysis, through digital images linked to a smartphone app (REDGIM®). The application of a didactic workshop occurred in the pandemic context of SARS-CoV2, in remote teaching, with students of the undergraduate course in Chemistry of a public University of Espírito Santo. The students were divided into two groups and developed solutions to a proposed problem, working with the themes: differentiation of false and true banknotes, and recognition of patterns in vegetable oils. The groups presented promising results in terms of learning in the development of their experimental methodologies and were able to have contact with analysis of chemical problems that are still little explored in the undergraduate course."
   }
 ]
 }
